@@ -7,6 +7,6 @@
   
 </p>
 
-I hold a Ph.D. in *Theoretical Physics*.  I’ve been researching in the field of high energy particle physics for several years. More specifically I am interested in the theoretical description of statistical systems and on strongly coupled quantum field theories :loop: ([QCD](https://en.wikipedia.org/wiki/Quantum_chromodynamics)), both addressed through numerical Monte Carlo simulations of quantum fields discretized on a (four-dimensional) space-time lattice ([Lattice Gauge Theories](https://en.wikipedia.org/wiki/Lattice_gauge_theory)).
+I hold a Ph.D. in *Theoretical Physics* ⚛️.  I’ve been researching in the field of high energy particle physics for several years. More specifically I am interested in the theoretical description of statistical systems and on strongly coupled quantum field theories :loop: ([QCD](https://en.wikipedia.org/wiki/Quantum_chromodynamics)), both addressed through numerical Monte Carlo simulations :game_die: of quantum fields discretized on a (four-dimensional) space-time lattice ([Lattice Gauge Theories](https://en.wikipedia.org/wiki/Lattice_gauge_theory)).
 
 In recent years I branched out my interests to AI and Machine Learning methods :robot:, focusing on deep neural networks applied to Natural Language Processing :speech_balloon: and Reinforcement Learning :space_invader: . 
